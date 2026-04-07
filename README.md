@@ -12,7 +12,7 @@ Mapa interativo com localização dos técnicos de assistência da Prática Serv
 - 📋 Popups informativos com dados de contato
 
 ## Empresas Service Plus+
-Marcadas com o logotipo da Nova Identidade Serviços:
+Marcadas com o logotipo da Nova Identidade Serviços:.
 - ELC Manutenção
 - JAT Assistência Tec.
 - Assistência Técnica Corretiva
