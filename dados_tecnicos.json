@@ -1,0 +1,2819 @@
+[
+  {
+    "name": "LM SERVICOS",
+    "city": "Afogados da Ingazeira",
+    "state": "PE",
+    "phone": "",
+    "code": "092521",
+    "lat": -7.740174700000001,
+    "lng": -37.64692170000001
+  },
+  {
+    "name": "THERMAL TECH",
+    "city": "Aguas de Lindoia",
+    "state": "SP",
+    "phone": "(19) 971709605",
+    "code": "107448",
+    "lat": -22.4723145,
+    "lng": -46.6202
+  },
+  {
+    "name": "ALS REFRIGERACAO",
+    "city": "Aguas Lindas de Goias",
+    "state": "GO",
+    "phone": "(61) 999758986",
+    "code": "140927",
+    "lat": -15.7442065,
+    "lng": -48.2794916
+  },
+  {
+    "name": "DOMINIO REFRIGERACAO",
+    "city": "Almirante Tamandare",
+    "state": "PR",
+    "phone": "",
+    "code": "024081",
+    "lat": -25.3585199,
+    "lng": -49.2918288
+  },
+  {
+    "name": "ELC MANUTENCAO",
+    "city": "Almirante Tamandare",
+    "state": "PR",
+    "phone": "",
+    "code": "144049",
+    "lat": -25.348995,
+    "lng": -49.26593099999999
+  },
+  {
+    "name": "BRTEC AR CONDICIONADO REFRIGERACAO E E",
+    "city": "Alvorada",
+    "state": "RS",
+    "phone": "(51) 992663917",
+    "code": "109794",
+    "lat": -30.0330125,
+    "lng": -51.076951
+  },
+  {
+    "name": "CHEF Cleber Cozero Penha",
+    "city": "Americana",
+    "state": "SP",
+    "phone": "",
+    "code": "105394",
+    "lat": -22.7558367,
+    "lng": -47.3459353
+  },
+  {
+    "name": "WD WEDO",
+    "city": "Anapolis",
+    "state": "GO",
+    "phone": "(62) 998662153",
+    "code": "107921",
+    "lat": -16.3220958,
+    "lng": -48.9130582
+  },
+  {
+    "name": "ALPHA SERVICE",
+    "city": "Aparecida de Goiania",
+    "state": "GO",
+    "phone": "(62) 991633047",
+    "code": "062181",
+    "lat": -16.763216,
+    "lng": -49.2697822
+  },
+  {
+    "name": "META REFRIGERACAO",
+    "city": "Aparecida de Goiania",
+    "state": "GO",
+    "phone": "",
+    "code": "131871",
+    "lat": -16.7564065,
+    "lng": -49.2591872
+  },
+  {
+    "name": "VISSATO SOLUCOES",
+    "city": "Aparecida de Goiania",
+    "state": "GO",
+    "phone": "(62) 32940185",
+    "code": "119488",
+    "lat": -16.7575711,
+    "lng": -49.2876922
+  },
+  {
+    "name": "BTS PROJETOS E SERVICOS",
+    "city": "Aracaju",
+    "state": "SE",
+    "phone": "(79) 91112421",
+    "code": "025361",
+    "lat": -10.9323848,
+    "lng": -37.0717013
+  },
+  {
+    "name": "EXPRESSO",
+    "city": "Aracaju",
+    "state": "SE",
+    "phone": "(79) 999652149",
+    "code": "007124",
+    "lat": -10.9538472,
+    "lng": -37.0717693
+  },
+  {
+    "name": "ELITEC ELETRO REFRIGERACAO",
+    "city": "Araguaina",
+    "state": "TO",
+    "phone": "(63) 991048057",
+    "code": "136372",
+    "lat": -7.189818499999999,
+    "lng": -48.1965874
+  },
+  {
+    "name": "FRIOTEC",
+    "city": "ARAPIRACA",
+    "state": "AL",
+    "phone": "",
+    "code": "024041",
+    "lat": -9.7572096,
+    "lng": -36.653381
+  },
+  {
+    "name": "D. EQUIP",
+    "city": "ARARAQUARA",
+    "state": "SP",
+    "phone": "(16) 997113807",
+    "code": "010447",
+    "lat": -21.7910724,
+    "lng": -48.2016375
+  },
+  {
+    "name": "CLOVIS MANUTENCAO FORNOS E MAQUINAS DE PANIFICACAO",
+    "city": "Araraquara",
+    "state": "SP",
+    "phone": "(16) 997749198",
+    "code": "020013",
+    "lat": -21.7895814,
+    "lng": -48.1564811
+  },
+  {
+    "name": "BELMAQ",
+    "city": "ATIBAIA",
+    "state": "SP",
+    "phone": "(11) 948600145",
+    "code": "051965",
+    "lat": -23.0962539,
+    "lng": -46.5407331
+  },
+  {
+    "name": "JL INSTALACAO MANUTENCOES",
+    "city": "BALNEARIO CAMBORIU",
+    "state": "SC",
+    "phone": "(47) 20330828",
+    "code": "004152",
+    "lat": -26.9754143,
+    "lng": -48.643313
+  },
+  {
+    "name": "Chef Diego Martins Miquelotto Dias",
+    "city": "Bauru",
+    "state": "SP",
+    "phone": "",
+    "code": "105412",
+    "lat": -22.3525294,
+    "lng": -49.1055261
+  },
+  {
+    "name": "FENIX MANUTENCAO DE COZINHA INDUSTRIAL",
+    "city": "Bauru",
+    "state": "SP",
+    "phone": "",
+    "code": "109935",
+    "lat": -22.3349968,
+    "lng": -49.0470609
+  },
+  {
+    "name": "QECE SERVICOS",
+    "city": "BELEM",
+    "state": "PA",
+    "phone": "",
+    "code": "001939",
+    "lat": -1.4197856,
+    "lng": -48.4833188
+  },
+  {
+    "name": "WS TECNICA INDUSTRIA",
+    "city": "Belem",
+    "state": "PA",
+    "phone": "",
+    "code": "069250",
+    "lat": -1.3807049,
+    "lng": -48.45209819999999
+  },
+  {
+    "name": "CHEF Andresa Amaral Ferreira",
+    "city": "Belem",
+    "state": "PA",
+    "phone": "",
+    "code": "105379",
+    "lat": -1.4016534,
+    "lng": -48.45842589999999
+  },
+  {
+    "name": "CHEF Alinne Barros",
+    "city": "Belem",
+    "state": "PA",
+    "phone": "",
+    "code": "096196",
+    "lat": -1.4672232,
+    "lng": -48.4645304
+  },
+  {
+    "name": "Ronald Santa Rosa Costa",
+    "city": "Belem",
+    "state": "PA",
+    "phone": "",
+    "code": "144565",
+    "lat": -1.470028,
+    "lng": -48.49315499999999
+  },
+  {
+    "name": "CONCESSIONARIA BELEM PA",
+    "city": "Belem",
+    "state": "PA",
+    "phone": "",
+    "code": "153386",
+    "lat": -1.4555842,
+    "lng": -48.4716006
+  },
+  {
+    "name": "REFRITECON",
+    "city": "BELO HORIZONTE",
+    "state": "MG",
+    "phone": "(31) 997962158",
+    "code": "005919",
+    "lat": -19.9333349,
+    "lng": -43.9803658
+  },
+  {
+    "name": "DELTA SERVICOS DE MANUTENCAO",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "phone": "",
+    "code": "101907",
+    "lat": -19.8015779,
+    "lng": -43.9280189
+  },
+  {
+    "name": "CHEF Henrique Pontes Rios Bueno de Resende",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "phone": "",
+    "code": "105447",
+    "lat": -19.9425139,
+    "lng": -43.9640898
+  },
+  {
+    "name": "CHEF Richard Antony de Moraes",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "phone": "",
+    "code": "105473",
+    "lat": -19.9490854,
+    "lng": -43.95497
+  },
+  {
+    "name": "CRISPIM  TRIPECAS ELETRONICA E MECANICA PARA BALANCAS",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "phone": "(31) 986846723",
+    "code": "110601",
+    "lat": -19.9201764,
+    "lng": -43.9462865
+  },
+  {
+    "name": "MUNDYSERVICE",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "phone": "(31) 971115317",
+    "code": "131223",
+    "lat": -19.9189264,
+    "lng": -43.952212
+  },
+  {
+    "name": "CONCESSIONARIA BELO HORIZONTE MG",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "phone": "",
+    "code": "140528",
+    "lat": -19.9562469,
+    "lng": -43.9500861
+  },
+  {
+    "name": "CONCESSIONARIA BELO HORIZONTE",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "phone": "",
+    "code": "128516",
+    "lat": -19.954469,
+    "lng": -43.9499557
+  },
+  {
+    "name": "Sanrley de Souza Oliveira",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "phone": "",
+    "code": "155098",
+    "lat": -19.8509015,
+    "lng": -43.9094337
+  },
+  {
+    "name": "ELETRO MECANICA PERES",
+    "city": "Boa Vista",
+    "state": "RR",
+    "phone": "(95) 991528395",
+    "code": "030412",
+    "lat": 2.8087176,
+    "lng": -60.7217838
+  },
+  {
+    "name": "TOTAL SERV BRASILIA",
+    "city": "Brasilia",
+    "state": "DF",
+    "phone": "(61) 85758000",
+    "code": "013445",
+    "lat": -15.8753411,
+    "lng": -48.00082889999999
+  },
+  {
+    "name": "CONCESSIONARIA BRASILIADF",
+    "city": "Brasilia",
+    "state": "DF",
+    "phone": "",
+    "code": "055619",
+    "lat": -15.7709704,
+    "lng": -47.8836997
+  },
+  {
+    "name": "CHEF Luciana de Oliveira Felix",
+    "city": "Brasilia",
+    "state": "DF",
+    "phone": "",
+    "code": "158326",
+    "lat": -15.7739808,
+    "lng": -47.8900233
+  },
+  {
+    "name": "IMPAKTA MANUTENCAO",
+    "city": "Brasilia",
+    "state": "DF",
+    "phone": "(61) 996661427",
+    "code": "152318",
+    "lat": -15.7574098,
+    "lng": -47.8953759
+  },
+  {
+    "name": "SANTEC REFRIGERACAO",
+    "city": "Cachoeira de Minas",
+    "state": "MG",
+    "phone": "(35) 998085155",
+    "code": "092705",
+    "lat": -22.3482636,
+    "lng": -45.7845878
+  },
+  {
+    "name": "JA MANUTENCOES DE PADARIAS PIZZARIAS",
+    "city": "Cacoal",
+    "state": "RO",
+    "phone": "(69) 999240128",
+    "code": "158359",
+    "lat": -11.4217118,
+    "lng": -61.425496
+  },
+  {
+    "name": "TOTAL SERV CALDAS NOVAS",
+    "city": "Caldas Novas",
+    "state": "GO",
+    "phone": "(64) 92139666",
+    "code": "098284",
+    "lat": -17.7445191,
+    "lng": -48.6250248
+  },
+  {
+    "name": "TECCOOK",
+    "city": "Campinas",
+    "state": "SP",
+    "phone": "(19) 971266341",
+    "code": "032578",
+    "lat": -22.8481221,
+    "lng": -47.0388062
+  },
+  {
+    "name": "CENTRAL INTELIGENTE",
+    "city": "CAMPINAS",
+    "state": "SP",
+    "phone": "(19) 78087672",
+    "code": "006399",
+    "lat": -22.8421342,
+    "lng": -47.1750793
+  },
+  {
+    "name": "TECH HELP",
+    "city": "Campinas",
+    "state": "SP",
+    "phone": "(19) 997495916",
+    "code": "111448",
+    "lat": -22.8923806,
+    "lng": -47.0599982
+  },
+  {
+    "name": "CONCESSIONARIA CAMPINAS SP",
+    "city": "Campinas",
+    "state": "SP",
+    "phone": "",
+    "code": "140525",
+    "lat": -22.8936585,
+    "lng": -47.1000687
+  },
+  {
+    "name": "FORMAPAN COMERCIO E SERVICO",
+    "city": "CAMPO GRANDE",
+    "state": "MS",
+    "phone": "(67) 992013414",
+    "code": "021483",
+    "lat": -20.4137173,
+    "lng": -54.585209
+  },
+  {
+    "name": "REFRIGEL AT",
+    "city": "CAMPO GRANDE",
+    "state": "MS",
+    "phone": "(67) 81290866",
+    "code": "002389",
+    "lat": -20.4476182,
+    "lng": -54.6316001
+  },
+  {
+    "name": "LEMES  MARTINS",
+    "city": "Campo Grande",
+    "state": "MS",
+    "phone": "(67) 984730382",
+    "code": "070048",
+    "lat": -20.4270904,
+    "lng": -54.6260875
+  },
+  {
+    "name": "CHEF Clebis Souza Vicente",
+    "city": "Campo Grande",
+    "state": "MS",
+    "phone": "",
+    "code": "105399",
+    "lat": -20.4901568,
+    "lng": -54.6799536
+  },
+  {
+    "name": "A F SHEURMANN",
+    "city": "Campo Grande",
+    "state": "MS",
+    "phone": "(67) 999510013",
+    "code": "119439",
+    "lat": -20.499662,
+    "lng": -54.656324
+  },
+  {
+    "name": "DANIEL DE SOUZA PINTO",
+    "city": "Campo Grande",
+    "state": "MS",
+    "phone": "(67) 999430327",
+    "code": "140703",
+    "lat": -20.3884884,
+    "lng": -54.5729401
+  },
+  {
+    "name": "CHEF Leonardo Zornitta Corradini",
+    "city": "Campo Grande",
+    "state": "MS",
+    "phone": "",
+    "code": "148083",
+    "lat": -20.4418931,
+    "lng": -54.5779675
+  },
+  {
+    "name": "CHEF Junior Guilherme Paris",
+    "city": "Campo Grande",
+    "state": "MS",
+    "phone": "",
+    "code": "151752",
+    "lat": -20.4309296,
+    "lng": -54.5791279
+  },
+  {
+    "name": "CONECT BR COZINHAS",
+    "city": "Campo Grande",
+    "state": "MS",
+    "phone": "(67) 996550057",
+    "code": "110803",
+    "lat": -20.4431075,
+    "lng": -54.5644979
+  },
+  {
+    "name": "QUALLITY SERVICE REF",
+    "city": "Campo Verde",
+    "state": "MT",
+    "phone": "(66) 996764088",
+    "code": "022323",
+    "lat": -15.5485918,
+    "lng": -55.1739985
+  },
+  {
+    "name": "MAQUIPAN",
+    "city": "Campos dos Goytacazes",
+    "state": "RJ",
+    "phone": "(22) 998166588",
+    "code": "027497",
+    "lat": -21.7641329,
+    "lng": -41.3153804
+  },
+  {
+    "name": "NOBRE MANUTENCAO",
+    "city": "Canoas",
+    "state": "RS",
+    "phone": "(51) 992586824",
+    "code": "084874",
+    "lat": -29.9001358,
+    "lng": -51.1453964
+  },
+  {
+    "name": "Nilton Luis Amaral",
+    "city": "Canoas",
+    "state": "RS",
+    "phone": "",
+    "code": "130572",
+    "lat": -29.9551722,
+    "lng": -51.1629802
+  },
+  {
+    "name": "REFRIGERACAO FOGEL",
+    "city": "CARAZINHO",
+    "state": "RS",
+    "phone": "(54) 981375953",
+    "code": "049421",
+    "lat": -28.2819015,
+    "lng": -52.7787944
+  },
+  {
+    "name": "BRUNO JERONIMO DA SILVA",
+    "city": "Cariacica",
+    "state": "ES",
+    "phone": "(27) 988913546",
+    "code": "140922",
+    "lat": -20.3497799,
+    "lng": -40.3739801
+  },
+  {
+    "name": "JAT ASSISTENCIA TEC.",
+    "city": "CASCAVEL",
+    "state": "PR",
+    "phone": "",
+    "code": "060517",
+    "lat": -24.9524191,
+    "lng": -53.4650237
+  },
+  {
+    "name": "CHEF Fabiana Cristina Dorigo Barao",
+    "city": "Cascavel",
+    "state": "PR",
+    "phone": "",
+    "code": "105433",
+    "lat": -24.9541715,
+    "lng": -53.480283
+  },
+  {
+    "name": "Chef Andre Luiz Zampier",
+    "city": "Cascavel",
+    "state": "PR",
+    "phone": "",
+    "code": "154905",
+    "lat": -24.9606833,
+    "lng": -53.4685989
+  },
+  {
+    "name": "PHANTON ELETROELETRONICA",
+    "city": "Caxias do Sul",
+    "state": "RS",
+    "phone": "(54) 999603816",
+    "code": "102155",
+    "lat": -29.1592985,
+    "lng": -51.1679351
+  },
+  {
+    "name": "ASSISTEK CHAPECO",
+    "city": "CHAPECO",
+    "state": "SC",
+    "phone": "(49) 999172322",
+    "code": "004423",
+    "lat": -27.0842881,
+    "lng": -52.6087289
+  },
+  {
+    "name": "COMERCIAL COMIN",
+    "city": "Chapeco",
+    "state": "SC",
+    "phone": "(49) 33315001",
+    "code": "004227",
+    "lat": -27.0904204,
+    "lng": -52.631045
+  },
+  {
+    "name": "CHEF Alex Miguel de Souza",
+    "city": "Cidade Ocidental",
+    "state": "GO",
+    "phone": "(61) 993630467",
+    "code": "105366",
+    "lat": -16.0997671,
+    "lng": -47.9341889
+  },
+  {
+    "name": "HS ASSISTENCIA TEC",
+    "city": "CONTAGEM",
+    "state": "MG",
+    "phone": "",
+    "code": "641672",
+    "lat": -19.9223956,
+    "lng": -44.0640162
+  },
+  {
+    "name": "FORNOS E FOGOES INDU",
+    "city": "CUIABA",
+    "state": "MT",
+    "phone": "(65) 96512710",
+    "code": "010010",
+    "lat": -15.5959227,
+    "lng": -56.0906009
+  },
+  {
+    "name": "A ESPECIALIZADA CUIABA",
+    "city": "Cuiaba",
+    "state": "MT",
+    "phone": "(65) 996901196",
+    "code": "007415",
+    "lat": -15.593205,
+    "lng": -56.070901
+  },
+  {
+    "name": "TEC FORNOS",
+    "city": "Cuiaba",
+    "state": "MT",
+    "phone": "",
+    "code": "089967",
+    "lat": -15.5619958,
+    "lng": -56.084339
+  },
+  {
+    "name": "CHEF Mariane Ferreira Peixoto",
+    "city": "Cuiaba",
+    "state": "MT",
+    "phone": "",
+    "code": "105505",
+    "lat": -15.6655586,
+    "lng": -56.0402632
+  },
+  {
+    "name": "CHEF Mariana Gaebler Brandao",
+    "city": "Cuiaba",
+    "state": "MT",
+    "phone": "",
+    "code": "050461",
+    "lat": -15.593651,
+    "lng": -56.09580390000001
+  },
+  {
+    "name": "FORTECS",
+    "city": "Cuiaba",
+    "state": "MT",
+    "phone": "",
+    "code": "152186",
+    "lat": -15.6248625,
+    "lng": -56.06662249999999
+  },
+  {
+    "name": "ASSISTENCIA TECNICA CORRETIVA",
+    "city": "Curitiba",
+    "state": "PR",
+    "phone": "(41) 996671986",
+    "code": "078171",
+    "lat": -25.4400945,
+    "lng": -49.2328947
+  },
+  {
+    "name": "William Cardoso Ferreira",
+    "city": "Curitiba",
+    "state": "PR",
+    "phone": "",
+    "code": "RESTCD",
+    "lat": -25.4937227,
+    "lng": -49.3331722
+  },
+  {
+    "name": "WMA ASSISTENCIA TECNICA LTDA",
+    "city": "Curitiba",
+    "state": "PR",
+    "phone": "(41) 999485878",
+    "code": "097062",
+    "lat": -25.4611902,
+    "lng": -49.2243478
+  },
+  {
+    "name": "CHEF Rafael Rocha",
+    "city": "Curitiba",
+    "state": "PR",
+    "phone": "",
+    "code": "105375",
+    "lat": -25.4102421,
+    "lng": -49.2367233
+  },
+  {
+    "name": "CHEF Ederson Borges Barbosa",
+    "city": "Curitiba",
+    "state": "PR",
+    "phone": "",
+    "code": "105416",
+    "lat": -25.4313347,
+    "lng": -49.260602
+  },
+  {
+    "name": "CHEF Erico Verissimo",
+    "city": "Curitiba",
+    "state": "PR",
+    "phone": "",
+    "code": "114042",
+    "lat": -25.4528356,
+    "lng": -49.2691776
+  },
+  {
+    "name": "CONCESSIONARIA CURITIBA PR",
+    "city": "Curitiba",
+    "state": "PR",
+    "phone": "",
+    "code": "034304",
+    "lat": -25.4551462,
+    "lng": -49.26814400000001
+  },
+  {
+    "name": "LUBRAS SOLUCOES E SERVICOS LTDA",
+    "city": "Curitiba",
+    "state": "PR",
+    "phone": "(41) 30956127",
+    "code": "157336",
+    "lat": -25.4895317,
+    "lng": -49.2266521
+  },
+  {
+    "name": "FOGOES CIA",
+    "city": "Curvelo",
+    "state": "MG",
+    "phone": "(38) 999689500",
+    "code": "001129",
+    "lat": -18.7703442,
+    "lng": -44.4299477
+  },
+  {
+    "name": "Chef Nathan dos Santos Borges",
+    "city": "Diadema",
+    "state": "SP",
+    "phone": "",
+    "code": "148097",
+    "lat": -23.7173996,
+    "lng": -46.6187868
+  },
+  {
+    "name": "EFITECH REFRIGERACAO",
+    "city": "Dourados",
+    "state": "MS",
+    "phone": "(67) 99998662",
+    "code": "153576",
+    "lat": -22.2414398,
+    "lng": -54.8129652
+  },
+  {
+    "name": "Chef Ruan Eufrasio Nilo Silva",
+    "city": "Embu das Artes",
+    "state": "SP",
+    "phone": "",
+    "code": "105500",
+    "lat": -23.6617086,
+    "lng": -46.8041136
+  },
+  {
+    "name": "PIOTECN",
+    "city": "Eunapolis",
+    "state": "BA",
+    "phone": "(73) 998613240",
+    "code": "123139",
+    "lat": -16.3713837,
+    "lng": -39.5841697
+  },
+  {
+    "name": "RODRIACO",
+    "city": "Fazenda Rio Grande",
+    "state": "PR",
+    "phone": "",
+    "code": "068178",
+    "lat": -25.6289344,
+    "lng": -49.2834582
+  },
+  {
+    "name": "TWN REFRIGERACAO LTD",
+    "city": "Feira de Santana",
+    "state": "BA",
+    "phone": "(75) 991275979",
+    "code": "032891",
+    "lat": -12.2570109,
+    "lng": -38.97167779999999
+  },
+  {
+    "name": "Aparecido Alessandro da Silva",
+    "city": "Ferraz de Vasconcelos",
+    "state": "SP",
+    "phone": "",
+    "code": "155094",
+    "lat": -23.5358091,
+    "lng": -46.379107
+  },
+  {
+    "name": "SUPREMAIS",
+    "city": "Florianopolis",
+    "state": "SC",
+    "phone": "(48) 998414112",
+    "code": "048512",
+    "lat": -27.5764259,
+    "lng": -48.6005395
+  },
+  {
+    "name": "CHEF Leticia Medrado Pessoa",
+    "city": "Florianopolis",
+    "state": "SC",
+    "phone": "",
+    "code": "105462",
+    "lat": -27.7033176,
+    "lng": -48.5142991
+  },
+  {
+    "name": "CONCESSIONARIA FLORIANOPOLIS SC",
+    "city": "Florianopolis",
+    "state": "SC",
+    "phone": "",
+    "code": "140522",
+    "lat": -27.5764259,
+    "lng": -48.6005395
+  },
+  {
+    "name": "JW SERVICO COMERCI",
+    "city": "Fortaleza",
+    "state": "CE",
+    "phone": "",
+    "code": "054521",
+    "lat": -3.8566673,
+    "lng": -38.4830881
+  },
+  {
+    "name": "CHEF Jose Eder de Souza Bezerra",
+    "city": "Fortaleza",
+    "state": "CE",
+    "phone": "",
+    "code": "105456",
+    "lat": -3.8325555,
+    "lng": -38.5118124
+  },
+  {
+    "name": "CONCESSIONARIA FORTALEZA CE",
+    "city": "Fortaleza",
+    "state": "CE",
+    "phone": "",
+    "code": "081026",
+    "lat": -3.7922359,
+    "lng": -38.4836451
+  },
+  {
+    "name": "SOS FOGOES",
+    "city": "Foz do Iguacu",
+    "state": "PR",
+    "phone": "(45) 999516803",
+    "code": "158472",
+    "lat": -25.4935204,
+    "lng": -54.531813
+  },
+  {
+    "name": "APPELT ELETRICIDADE",
+    "city": "Francisco Beltrao",
+    "state": "PR",
+    "phone": "(46) 999364054",
+    "code": "026224",
+    "lat": -26.0421363,
+    "lng": -53.0591134
+  },
+  {
+    "name": "Jose Inacio da Silva Junior",
+    "city": "Gloria do Goita",
+    "state": "PE",
+    "phone": "",
+    "code": "139638",
+    "lat": -8.000384,
+    "lng": -35.2995933
+  },
+  {
+    "name": "QUALYCREAM IMPAKTA GOIANIA",
+    "city": "Goiania",
+    "state": "GO",
+    "phone": "(62) 982462034",
+    "code": "040024",
+    "lat": -16.6871051,
+    "lng": -49.273106
+  },
+  {
+    "name": "ECOCLEAN",
+    "city": "Goiania",
+    "state": "GO",
+    "phone": "",
+    "code": "143044",
+    "lat": -16.6922557,
+    "lng": -49.2289073
+  },
+  {
+    "name": "TOTAL SERV SOLUCOES",
+    "city": "Goiania",
+    "state": "GO",
+    "phone": "(62) 30868341",
+    "code": "153702",
+    "lat": -16.7144929,
+    "lng": -49.2713189
+  },
+  {
+    "name": "AZTEC",
+    "city": "Goiania",
+    "state": "GO",
+    "phone": "(62) 999281846",
+    "code": "157552",
+    "lat": -16.705258,
+    "lng": -49.2654491
+  },
+  {
+    "name": "RS ASSISTENCIA TECNICA LTDA",
+    "city": "Governador Valadares",
+    "state": "MG",
+    "phone": "(33) 999068485",
+    "code": "079727",
+    "lat": -18.858259,
+    "lng": -41.954134
+  },
+  {
+    "name": "OFICINA DA GASTRONOMIA LTDA",
+    "city": "Gramado",
+    "state": "RS",
+    "phone": "(54) 999113011",
+    "code": "012840",
+    "lat": -29.3576822,
+    "lng": -50.8822274
+  },
+  {
+    "name": "TEC ARES",
+    "city": "Guarapari",
+    "state": "ES",
+    "phone": "(21) 988734082",
+    "code": "149126",
+    "lat": -20.6395913,
+    "lng": -40.4832416
+  },
+  {
+    "name": "MAX FRIO REFRIGERACAO E SERVICOS",
+    "city": "Gurupi",
+    "state": "TO",
+    "phone": "(63) 984107060",
+    "code": "095716",
+    "lat": -11.7316504,
+    "lng": -49.0915269
+  },
+  {
+    "name": "SETMA ASSISTENCIA TECNICA",
+    "city": "Icara",
+    "state": "SC",
+    "phone": "(48) 999731095",
+    "code": "021737",
+    "lat": -28.6851582,
+    "lng": -49.3221965
+  },
+  {
+    "name": "MEDCOM SERVICE",
+    "city": "Ipatinga",
+    "state": "MG",
+    "phone": "",
+    "code": "040059",
+    "lat": -19.5040319,
+    "lng": -42.560325
+  },
+  {
+    "name": "CHEF Thatiane Maira Carvalho Coelho",
+    "city": "Itabira",
+    "state": "MG",
+    "phone": "",
+    "code": "093781",
+    "lat": -19.6210102,
+    "lng": -43.2297796
+  },
+  {
+    "name": "SQUAT COMERCIO E SER",
+    "city": "Itabuna",
+    "state": "BA",
+    "phone": "",
+    "code": "005794",
+    "lat": -14.7949549,
+    "lng": -39.2842454
+  },
+  {
+    "name": "DRIMAQ",
+    "city": "Itapetininga",
+    "state": "SP",
+    "phone": "(15) 997643069",
+    "code": "075647",
+    "lat": -23.5857279,
+    "lng": -48.0786698
+  },
+  {
+    "name": "Marcio da Silva Ribeiro",
+    "city": "Itapevi",
+    "state": "SP",
+    "phone": "(35) 984465162",
+    "code": "087751",
+    "lat": -23.5613298,
+    "lng": -46.685356
+  },
+  {
+    "name": "CHEF Emerson Franklin Azevedo Maciel",
+    "city": "Jaboatao dos Guararapes",
+    "state": "PE",
+    "phone": "",
+    "code": "105504",
+    "lat": -8.2069056,
+    "lng": -34.9240329
+  },
+  {
+    "name": "CHEF Marcelo Veras Albuquerque",
+    "city": "Jaboatao dos Guararapes",
+    "state": "PE",
+    "phone": "",
+    "code": "151750",
+    "lat": -8.0771462,
+    "lng": -34.9998615
+  },
+  {
+    "name": "CHEF Mauricio Henrique de Carvalho",
+    "city": "Jacarei",
+    "state": "SP",
+    "phone": "",
+    "code": "148090",
+    "lat": -23.266786,
+    "lng": -45.9432973
+  },
+  {
+    "name": "CHEF Alexandre Ehlert Moreira da Silva",
+    "city": "Jaragua do Sul",
+    "state": "SC",
+    "phone": "",
+    "code": "105384",
+    "lat": -27.1513189,
+    "lng": -48.4918272
+  },
+  {
+    "name": "BALANTECH ASSISTENCIA TECNICA",
+    "city": "Joao Pessoa",
+    "state": "PB",
+    "phone": "(83) 987511845",
+    "code": "116148",
+    "lat": -7.1252678,
+    "lng": -34.8667492
+  },
+  {
+    "name": "JP COZINHAS LTDA",
+    "city": "Joao Pessoa",
+    "state": "PB",
+    "phone": "(84) 998016151",
+    "code": "157790",
+    "lat": -7.126661899999999,
+    "lng": -34.8611744
+  },
+  {
+    "name": "DUARTE REFRIGERACAO",
+    "city": "Joinville",
+    "state": "SC",
+    "phone": "",
+    "code": "046952",
+    "lat": -26.284378,
+    "lng": -48.8854836
+  },
+  {
+    "name": "CARIRI SAMP SERVICOS",
+    "city": "JUAZEIRO DO NORTE",
+    "state": "CE",
+    "phone": "(88) 999707217",
+    "code": "029470",
+    "lat": -7.2264803,
+    "lng": -39.31731509999999
+  },
+  {
+    "name": "FLAIRE DISTRIBUIDORA",
+    "city": "Juiz de Fora",
+    "state": "MG",
+    "phone": "",
+    "code": "029190",
+    "lat": -21.712336,
+    "lng": -43.355934
+  },
+  {
+    "name": "TECFAZ MANUSTENERE MAQUINAS",
+    "city": "Juiz de Fora",
+    "state": "MG",
+    "phone": "(32) 984514145",
+    "code": "073435",
+    "lat": -21.7005064,
+    "lng": -43.4282012
+  },
+  {
+    "name": "MARCELO RAFAEL",
+    "city": "Juiz de Fora",
+    "state": "MG",
+    "phone": "",
+    "code": "145370",
+    "lat": -21.6924018,
+    "lng": -43.3512703
+  },
+  {
+    "name": "DRJ REFRIGERACAO",
+    "city": "Lambari",
+    "state": "MG",
+    "phone": "",
+    "code": "053177",
+    "lat": -21.9680375,
+    "lng": -45.3483759
+  },
+  {
+    "name": "IMPAKTA SOLUCOES",
+    "city": "Lauro de Freitas",
+    "state": "BA",
+    "phone": "(71) 992063882",
+    "code": "046240",
+    "lat": -12.8967611,
+    "lng": -38.3401243
+  },
+  {
+    "name": "SERVICE VS MANUTENCAO",
+    "city": "LONDRINA",
+    "state": "PR",
+    "phone": "(43) 999912345",
+    "code": "028690",
+    "lat": -23.3096379,
+    "lng": -51.1810126
+  },
+  {
+    "name": "CHEF Marcus Silva",
+    "city": "Londrina",
+    "state": "PR",
+    "phone": "",
+    "code": "149626",
+    "lat": -23.3472354,
+    "lng": -51.1811337
+  },
+  {
+    "name": "LIGHT TEC SOLUCOES ELETRICAS",
+    "city": "Luis Eduardo Magalhaes",
+    "state": "BA",
+    "phone": "",
+    "code": "127431",
+    "lat": -12.0571824,
+    "lng": -45.79031390000001
+  },
+  {
+    "name": "MM REFRIGERACAO MACAPA",
+    "city": "MACAPA",
+    "state": "AP",
+    "phone": "(96) 991343066",
+    "code": "043355",
+    "lat": 0.0151908,
+    "lng": -51.06934039999999
+  },
+  {
+    "name": "A2TEC",
+    "city": "MACEIO",
+    "state": "AL",
+    "phone": "(82) 999220092",
+    "code": "016809",
+    "lat": -9.664805,
+    "lng": -35.724424
+  },
+  {
+    "name": "DINAMICA ASSISTENCIA AUTORIZADA",
+    "city": "Maceio",
+    "state": "AL",
+    "phone": "",
+    "code": "151778",
+    "lat": -9.636490900000002,
+    "lng": -35.71439489999999
+  },
+  {
+    "name": "CHEF Suyllan Lima figueiredo",
+    "city": "Maceio",
+    "state": "AL",
+    "phone": "",
+    "code": "158418",
+    "lat": -9.6000061,
+    "lng": -35.7178526
+  },
+  {
+    "name": "AMATEC  ASSISTENCIA",
+    "city": "Manaus",
+    "state": "AM",
+    "phone": "(92) 992713820",
+    "code": "033344",
+    "lat": -2.980797,
+    "lng": -60.0114601
+  },
+  {
+    "name": "CHEF Aluisio Dias de Oliveira Neto",
+    "city": "Manaus",
+    "state": "AM",
+    "phone": "",
+    "code": "105378",
+    "lat": -3.1202079,
+    "lng": -59.98965980000001
+  },
+  {
+    "name": "Neymar Belem de Queiroz",
+    "city": "Manaus",
+    "state": "AM",
+    "phone": "",
+    "code": "115869",
+    "lat": -3.1146009,
+    "lng": -60.0368187
+  },
+  {
+    "name": "D A COZINHAS INTELIGENTES MANAUS",
+    "city": "Manaus",
+    "state": "AM",
+    "phone": "(11) 953339156",
+    "code": "141878",
+    "lat": -3.0433918,
+    "lng": -59.9613911
+  },
+  {
+    "name": "EXTREME INFO SERVICE",
+    "city": "Manaus",
+    "state": "AM",
+    "phone": "(92) 992431965",
+    "code": "136259",
+    "lat": -3.0778519,
+    "lng": -59.9492583
+  },
+  {
+    "name": "D.R MANUTENCOES",
+    "city": "Maraba",
+    "state": "PA",
+    "phone": "(94) 992926557",
+    "code": "027584",
+    "lat": -5.3331254,
+    "lng": -49.093238
+  },
+  {
+    "name": "Leonardo Guimaraes Oliveira",
+    "city": "Marica",
+    "state": "RJ",
+    "phone": "",
+    "code": "081897",
+    "lat": -22.9380077,
+    "lng": -42.9453336
+  },
+  {
+    "name": "Eletrotecnica Teixeira",
+    "city": "Maringa",
+    "state": "PR",
+    "phone": "(44) 97667481",
+    "code": "021967",
+    "lat": -23.4498779,
+    "lng": -51.9556522
+  },
+  {
+    "name": "APANITEC PECAS E SERVICOS",
+    "city": "Marituba",
+    "state": "PA",
+    "phone": "(91) 992411406",
+    "code": "107968",
+    "lat": -1.36205,
+    "lng": -48.3405486
+  },
+  {
+    "name": "LEGASTEC ASSISTENCIA TECNICA",
+    "city": "Maua",
+    "state": "SP",
+    "phone": "(11) 964468512",
+    "code": "018270",
+    "lat": -23.6584055,
+    "lng": -46.4557616
+  },
+  {
+    "name": "VICK FORNOS ASSISTENCIA TECNICA",
+    "city": "Maua",
+    "state": "SP",
+    "phone": "(11) 998324273",
+    "code": "005745",
+    "lat": -23.661444,
+    "lng": -46.4358234
+  },
+  {
+    "name": "VETORIAL",
+    "city": "MOGI DAS CRUZES",
+    "state": "SP",
+    "phone": "(11) 47485685",
+    "code": "020568",
+    "lat": -23.5491765,
+    "lng": -46.2377029
+  },
+  {
+    "name": "Chef Marcos Oliveira da Neiva",
+    "city": "Mogi das Cruzes",
+    "state": "SP",
+    "phone": "",
+    "code": "105501",
+    "lat": -23.5681459,
+    "lng": -46.2118455
+  },
+  {
+    "name": "T.D Eletromecânica",
+    "city": "Montes Claros",
+    "state": "MG",
+    "phone": "(38) 991592628",
+    "code": "080220",
+    "lat": -16.7465545,
+    "lng": -43.829603
+  },
+  {
+    "name": "CL SERVICOS",
+    "city": "NATAL",
+    "state": "RN",
+    "phone": "(84) 998016150",
+    "code": "007904",
+    "lat": -5.8179892,
+    "lng": -35.2414149
+  },
+  {
+    "name": "EPP NATAL CL SERVICOS",
+    "city": "Natal",
+    "state": "RN",
+    "phone": "",
+    "code": "133642",
+    "lat": -5.831392999999999,
+    "lng": -35.2059411
+  },
+  {
+    "name": "MAQNATA EQUIPAMENTOS",
+    "city": "Niteroi",
+    "state": "RJ",
+    "phone": "(21) 988601201",
+    "code": "036571",
+    "lat": -22.8929458,
+    "lng": -43.0988373
+  },
+  {
+    "name": "Caju Assistencia",
+    "city": "Nova Iguacu",
+    "state": "RJ",
+    "phone": "(21) 988581145",
+    "code": "158796",
+    "lat": -22.7869698,
+    "lng": -43.5448986
+  },
+  {
+    "name": "GS MANUTENCOES",
+    "city": "Nova Mutum",
+    "state": "MT",
+    "phone": "(65) 996743263",
+    "code": "099951",
+    "lat": -13.8463413,
+    "lng": -56.0921381
+  },
+  {
+    "name": "COMMERCE SOLUTIONS",
+    "city": "Olinda",
+    "state": "PE",
+    "phone": "(81) 982656447",
+    "code": "094044",
+    "lat": -7.963339,
+    "lng": -34.8393667
+  },
+  {
+    "name": "Chef Filipe Matheus de Almeida Bordini",
+    "city": "Osasco",
+    "state": "SP",
+    "phone": "",
+    "code": "105498",
+    "lat": -23.5578641,
+    "lng": -46.7814854
+  },
+  {
+    "name": "CHEF Gabriel Horta Nassif Toni",
+    "city": "Palhoca",
+    "state": "SC",
+    "phone": "",
+    "code": "105436",
+    "lat": -27.9015358,
+    "lng": -48.5912719
+  },
+  {
+    "name": "WF MAQUINAS",
+    "city": "PALMAS",
+    "state": "TO",
+    "phone": "",
+    "code": "022429",
+    "lat": -10.1868336,
+    "lng": -48.3072076
+  },
+  {
+    "name": "MS MANUTENCAO E MONT",
+    "city": "PALMAS",
+    "state": "TO",
+    "phone": "",
+    "code": "038273",
+    "lat": -10.2180201,
+    "lng": -48.32467519999999
+  },
+  {
+    "name": "MOISES GONCALVES DOS REIS",
+    "city": "Paracatu",
+    "state": "MG",
+    "phone": "(38) 999001442",
+    "code": "113302",
+    "lat": -17.2248199,
+    "lng": -46.86227539999999
+  },
+  {
+    "name": "GRAAL REFRIGERACAO",
+    "city": "Paranavai",
+    "state": "PR",
+    "phone": "(44) 999056100",
+    "code": "051551",
+    "lat": -23.0808412,
+    "lng": -52.46439489999999
+  },
+  {
+    "name": "RM REFRIGERACAO E CLIMATIZACAO",
+    "city": "Parauapebas",
+    "state": "PA",
+    "phone": "(94) 984340109",
+    "code": "159458",
+    "lat": -6.0610927,
+    "lng": -49.8915689
+  },
+  {
+    "name": "ELETRICA CAIXETA",
+    "city": "Patos de Minas",
+    "state": "MG",
+    "phone": "",
+    "code": "119449",
+    "lat": -18.6000717,
+    "lng": -46.4845893
+  },
+  {
+    "name": "PASSOS REFRIGERACAO",
+    "city": "Patos de Minas",
+    "state": "MG",
+    "phone": "(34) 996669969",
+    "code": "150125",
+    "lat": -18.6027307,
+    "lng": -46.4684639
+  },
+  {
+    "name": "CMCI CONSULTORIA E MANUTENCAO DE COZINHAS INDUSTRIAIS",
+    "city": "Paulista",
+    "state": "PE",
+    "phone": "(81) 987029922",
+    "code": "109828",
+    "lat": -7.9584386,
+    "lng": -34.8883589
+  },
+  {
+    "name": "Eletrocenter",
+    "city": "Pescaria Brava",
+    "state": "SC",
+    "phone": "(48) 999564348",
+    "code": "091086",
+    "lat": -28.4211247,
+    "lng": -48.8927671
+  },
+  {
+    "name": "AMPARO ASSISTENCIA",
+    "city": "Petrolina",
+    "state": "PE",
+    "phone": "(81) 998933616",
+    "code": "142284",
+    "lat": -9.3838599,
+    "lng": -40.5455467
+  },
+  {
+    "name": "AZIZ NEGOCIOS E SOLUCOES",
+    "city": "Piumhi",
+    "state": "MG",
+    "phone": "(37) 988271860",
+    "code": "154072",
+    "lat": -20.4685865,
+    "lng": -45.9516179
+  },
+  {
+    "name": "VAPORTEC MANUTENCAO",
+    "city": "POCOS DE CALDAS",
+    "state": "MG",
+    "phone": "(35) 99771093",
+    "code": "018494",
+    "lat": -21.795483,
+    "lng": -46.5704939
+  },
+  {
+    "name": "MKM SERVICOS",
+    "city": "Pocos de Caldas",
+    "state": "MG",
+    "phone": "(35) 991028334",
+    "code": "122832",
+    "lat": -21.787333,
+    "lng": -46.54382529999999
+  },
+  {
+    "name": "CHEF Caue Augusto de Oliveira Favero",
+    "city": "Pomerode",
+    "state": "SC",
+    "phone": "",
+    "code": "156136",
+    "lat": -26.7139789,
+    "lng": -49.164802
+  },
+  {
+    "name": "VALDIR HAAS",
+    "city": "Ponta Grossa",
+    "state": "PR",
+    "phone": "(42) 32279989",
+    "code": "004744",
+    "lat": -25.0993784,
+    "lng": -50.1582927
+  },
+  {
+    "name": "Chef Ricardo Cher",
+    "city": "Ponta Pora",
+    "state": "MS",
+    "phone": "",
+    "code": "110580",
+    "lat": -22.5222667,
+    "lng": -55.7189434
+  },
+  {
+    "name": "GAUCHO AUTOMACAO E INSTALACAO",
+    "city": "Ponta Pora",
+    "state": "MS",
+    "phone": "(67) 999615625",
+    "code": "134467",
+    "lat": -22.5320762,
+    "lng": -55.7325909
+  },
+  {
+    "name": "ALTA ASSISTENCIA TEC",
+    "city": "PORTO ALEGRE",
+    "state": "RS",
+    "phone": "",
+    "code": "035036",
+    "lat": -30.1248685,
+    "lng": -51.220071
+  },
+  {
+    "name": "LCR CARVALHO ME",
+    "city": "PORTO ALEGRE",
+    "state": "RS",
+    "phone": "(51) 993007871",
+    "code": "002770",
+    "lat": -30.106936,
+    "lng": -51.111239
+  },
+  {
+    "name": "CHEF Gustavo Saccilotto Leal",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "phone": "",
+    "code": "105446",
+    "lat": -30.1265644,
+    "lng": -51.2215497
+  },
+  {
+    "name": "CHEF Moises Antonio Basso",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "phone": "",
+    "code": "152549",
+    "lat": -30.04357,
+    "lng": -51.18308
+  },
+  {
+    "name": "SPEED OVENS MANUTENCOES",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "phone": "",
+    "code": "155890",
+    "lat": -30.0181598,
+    "lng": -51.2091266
+  },
+  {
+    "name": "Moorak Solucoes Servicos",
+    "city": "Porto Seguro",
+    "state": "BA",
+    "phone": "(73) 999256307",
+    "code": "144090",
+    "lat": -16.4159365,
+    "lng": -39.0780483
+  },
+  {
+    "name": "START CLEAN",
+    "city": "Porto Velho",
+    "state": "RO",
+    "phone": "(69) 984650087",
+    "code": "039815",
+    "lat": -8.7518008,
+    "lng": -63.8570566
+  },
+  {
+    "name": "Marco Pollo Simoes",
+    "city": "Porto Velho",
+    "state": "RO",
+    "phone": "(69) 999935756",
+    "code": "158534",
+    "lat": -8.706152,
+    "lng": -63.8761008
+  },
+  {
+    "name": "MARTECH",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "(35) 997234568",
+    "code": "057009",
+    "lat": -22.2155124,
+    "lng": -45.9103415
+  },
+  {
+    "name": "LUIZ PAULO TOSTA",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "051502",
+    "lat": -22.1024923,
+    "lng": -46.4970682
+  },
+  {
+    "name": "R/R INOX REPAROS E R",
+    "city": "POUSO ALEGRE",
+    "state": "MG",
+    "phone": "",
+    "code": "031692",
+    "lat": -22.228898,
+    "lng": -45.893474
+  },
+  {
+    "name": "RMS TEC",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "(35) 999061706",
+    "code": "073056",
+    "lat": -22.2270601,
+    "lng": -45.9242746
+  },
+  {
+    "name": "Leonardo Nunes Mendes",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "081896",
+    "lat": -22.2329165,
+    "lng": -45.93520669999999
+  },
+  {
+    "name": "Alexsandro Kassio S da Cruz",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "(35) 998201948",
+    "code": "081904",
+    "lat": -22.2042598,
+    "lng": -45.9439183
+  },
+  {
+    "name": "DHT TECNOLOGIA",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "(35) 999881498",
+    "code": "093831",
+    "lat": -22.2161521,
+    "lng": -45.9088948
+  },
+  {
+    "name": "TESTE JULIO CESAR",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "050495",
+    "lat": -22.2822744,
+    "lng": -45.92248499999999
+  },
+  {
+    "name": "Helivelton Ribeiro",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "035206",
+    "lat": -22.2269402,
+    "lng": -45.9083602
+  },
+  {
+    "name": "FELLIPE LAUTON TESTE",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "104793",
+    "lat": -22.2270778,
+    "lng": -45.93937160000001
+  },
+  {
+    "name": "CHEF Mariana Rachel Saraiva Ferreira",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "105463",
+    "lat": -22.2268,
+    "lng": -45.9364558
+  },
+  {
+    "name": "Chef Joao Damiao Pereira",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "106894",
+    "lat": -22.2270839,
+    "lng": -45.9365859
+  },
+  {
+    "name": "Chef Fabio Jose Chagas Rosa",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "107155",
+    "lat": -22.2270778,
+    "lng": -45.93937160000001
+  },
+  {
+    "name": "Emily Aparecida Machado",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "107162",
+    "lat": -22.2386579,
+    "lng": -45.9629036
+  },
+  {
+    "name": "Anna Caroline da Silva",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "107163",
+    "lat": -22.2270778,
+    "lng": -45.93937160000001
+  },
+  {
+    "name": "Gustavo Pascoal Mereu",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "111320",
+    "lat": -22.2684175,
+    "lng": -45.9201391
+  },
+  {
+    "name": "Natanael Souza Fernandes",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "115641",
+    "lat": -22.2248924,
+    "lng": -45.9429186
+  },
+  {
+    "name": "MAXTEC",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "(35) 997047434",
+    "code": "143998",
+    "lat": -22.199369,
+    "lng": -45.9019148
+  },
+  {
+    "name": "Mirela Faria",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "148209",
+    "lat": -22.2332352,
+    "lng": -45.9414552
+  },
+  {
+    "name": "DAZIOTECH ASSSITENCIA TECNICA",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "158437",
+    "lat": -22.2124669,
+    "lng": -45.9418857
+  },
+  {
+    "name": "Kaleb Custodio",
+    "city": "Pouso Alegre",
+    "state": "MG",
+    "phone": "",
+    "code": "021686",
+    "lat": -22.2401853,
+    "lng": -45.88403479999999
+  },
+  {
+    "name": "FERTEC FORNOS",
+    "city": "Praia Grande",
+    "state": "SP",
+    "phone": "",
+    "code": "136768",
+    "lat": -24.0060243,
+    "lng": -46.4416688
+  },
+  {
+    "name": "JAC EQUIPAMENTOS E ASSISTENCIA TECNICA",
+    "city": "Presidente Prudente",
+    "state": "SP",
+    "phone": "(18) 998140330",
+    "code": "115076",
+    "lat": -22.1359686,
+    "lng": -51.38596500000001
+  },
+  {
+    "name": "LL MANUTENCAO E SERVICOS",
+    "city": "Primavera do Leste",
+    "state": "MT",
+    "phone": "(66) 992472906",
+    "code": "137375",
+    "lat": -15.5357023,
+    "lng": -54.2758578
+  },
+  {
+    "name": "JNT REFRIGERACAO E S",
+    "city": "RECIFE",
+    "state": "PE",
+    "phone": "(81) 983411921",
+    "code": "029244",
+    "lat": -7.9917812,
+    "lng": -34.9116675
+  },
+  {
+    "name": "Chef Camila Costa Marques Lacerda",
+    "city": "Recife",
+    "state": "PE",
+    "phone": "",
+    "code": "105503",
+    "lat": -8.0274439,
+    "lng": -34.927293
+  },
+  {
+    "name": "CHEF Nefertiti de Souza",
+    "city": "Recife",
+    "state": "PE",
+    "phone": "",
+    "code": "131377",
+    "lat": -8.0572729,
+    "lng": -34.9033514
+  },
+  {
+    "name": "Chef Willamis Cordeiro da Silva Guedes",
+    "city": "Recife",
+    "state": "PE",
+    "phone": "",
+    "code": "140633",
+    "lat": -8.075996300000002,
+    "lng": -34.9194261
+  },
+  {
+    "name": "Alexandre Francisco da Silva",
+    "city": "Recife",
+    "state": "PE",
+    "phone": "(35) 984318458",
+    "code": "143401",
+    "lat": -8.054721599999999,
+    "lng": -34.9567492
+  },
+  {
+    "name": "AJA SOLUCOES EM SERVICOS",
+    "city": "RIBEIRAO DAS NEVES",
+    "state": "MG",
+    "phone": "(31) 992469105",
+    "code": "057910",
+    "lat": -19.761417,
+    "lng": -44.1346469
+  },
+  {
+    "name": "Rafael Wagner de Lima",
+    "city": "Ribeirao Preto",
+    "state": "SP",
+    "phone": "",
+    "code": "139634",
+    "lat": -21.1814991,
+    "lng": -47.73841059999999
+  },
+  {
+    "name": "CHEF Ricardo Alexandre Crespo",
+    "city": "Ribeirao Preto",
+    "state": "SP",
+    "phone": "",
+    "code": "148092",
+    "lat": -21.2049079,
+    "lng": -47.794736
+  },
+  {
+    "name": "TEMPO FRIO",
+    "city": "RIO BRANCO",
+    "state": "AC",
+    "phone": "(68) 99864637",
+    "code": "008166",
+    "lat": -9.9795914,
+    "lng": -67.8028259
+  },
+  {
+    "name": "MANTEC MANUTENCAO DE EQUIPAMENTOS IND",
+    "city": "Rio Branco",
+    "state": "AC",
+    "phone": "",
+    "code": "039168",
+    "lat": -9.963342599999999,
+    "lng": -67.8302183
+  },
+  {
+    "name": "WALLITEC",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "phone": "(21) 981717222",
+    "code": "005014",
+    "lat": -22.8330659,
+    "lng": -43.2756071
+  },
+  {
+    "name": "KING WER COZINHAS",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "phone": "(21) 995003449",
+    "code": "089616",
+    "lat": -22.988097,
+    "lng": -43.3096497
+  },
+  {
+    "name": "CHEF Richardson Mendonca Oliveira",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "phone": "",
+    "code": "105476",
+    "lat": -22.9868338,
+    "lng": -43.5502157
+  },
+  {
+    "name": "SMART CLIMATIZA",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "phone": "",
+    "code": "110628",
+    "lat": -22.8902205,
+    "lng": -43.2233244
+  },
+  {
+    "name": "CONCESSIONARIA RIO DE JANEIRO RJ",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "phone": "",
+    "code": "009496",
+    "lat": -22.9707099,
+    "lng": -43.3663732
+  },
+  {
+    "name": "MAQRIO",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "phone": "(21) 970072557",
+    "code": "148200",
+    "lat": -22.990941,
+    "lng": -43.6276053
+  },
+  {
+    "name": "Daniel Candido da Silva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "phone": "",
+    "code": "154778",
+    "lat": -22.9908137,
+    "lng": -43.2516768
+  },
+  {
+    "name": "ZKTEC BRASIL PORTE ME",
+    "city": "Rio Grande",
+    "state": "RS",
+    "phone": "",
+    "code": "127495",
+    "lat": -32.1107818,
+    "lng": -52.1781453
+  },
+  {
+    "name": "TOTAL SERV COZINHAS PROFISSIONAIS RV",
+    "city": "Rio Verde",
+    "state": "GO",
+    "phone": "(64) 92247501",
+    "code": "143705",
+    "lat": -17.7663214,
+    "lng": -50.9041534
+  },
+  {
+    "name": "Giovani Oliveira Antunes",
+    "city": "Rolandia",
+    "state": "PR",
+    "phone": "",
+    "code": "154498",
+    "lat": -23.3272538,
+    "lng": -51.3837596
+  },
+  {
+    "name": "URSO BRANCO",
+    "city": "RONDONOPOLIS",
+    "state": "MT",
+    "phone": "",
+    "code": "066943",
+    "lat": -16.4592933,
+    "lng": -54.6384422
+  },
+  {
+    "name": "NOVA COZINHA",
+    "city": "SALVADOR",
+    "state": "BA",
+    "phone": "(71) 999663362",
+    "code": "002390",
+    "lat": -12.9316289,
+    "lng": -38.419129
+  },
+  {
+    "name": "CHEF Adriana da Silva Rodrigues Cavalcanti",
+    "city": "Salvador",
+    "state": "BA",
+    "phone": "",
+    "code": "105354",
+    "lat": -12.9795888,
+    "lng": -38.4604442
+  },
+  {
+    "name": "ILA MANUTENCAO EM EQUIPAMENTOS DE COZINHA INDUSTRIAL",
+    "city": "Salvador",
+    "state": "BA",
+    "phone": "",
+    "code": "105921",
+    "lat": -12.9155799,
+    "lng": -38.3565162
+  },
+  {
+    "name": "NASSER REFRIGERACAO E COZINHA INDUSTRIAL LTDA",
+    "city": "Salvador",
+    "state": "BA",
+    "phone": "(71) 999642292",
+    "code": "109462",
+    "lat": -12.8911994,
+    "lng": -38.3249464
+  },
+  {
+    "name": "CHEF Jefferson dos Santos Reis",
+    "city": "Salvador",
+    "state": "BA",
+    "phone": "",
+    "code": "148087",
+    "lat": -12.944987,
+    "lng": -38.442085
+  },
+  {
+    "name": "MANUSERVE",
+    "city": "Santa Maria",
+    "state": "RS",
+    "phone": "(55) 991822957",
+    "code": "103472",
+    "lat": -29.7064989,
+    "lng": -53.72046690000001
+  },
+  {
+    "name": "Uiliam de Cassia Lemos",
+    "city": "Santa Rita do Sapucai",
+    "state": "MG",
+    "phone": "",
+    "code": "082179",
+    "lat": -22.2434052,
+    "lng": -45.718205
+  },
+  {
+    "name": "LEONARDO FELIPE",
+    "city": "Santa Rita do Sapucai",
+    "state": "MG",
+    "phone": "",
+    "code": "146725",
+    "lat": -22.2268522,
+    "lng": -45.71939099999999
+  },
+  {
+    "name": "Joao Paulo de Oliveira",
+    "city": "Santa Rita do Sapucai",
+    "state": "MG",
+    "phone": "",
+    "code": "149277",
+    "lat": -22.23894,
+    "lng": -45.7016334
+  },
+  {
+    "name": "R D MANUTENCAO ELETROELETRONICA",
+    "city": "SANTA ROSA DE VITERBO",
+    "state": "SP",
+    "phone": "(16) 992104601",
+    "code": "025659",
+    "lat": -21.4656763,
+    "lng": -47.3695096
+  },
+  {
+    "name": "MAS TECNICA",
+    "city": "SANTANA",
+    "state": "AP",
+    "phone": "(91) 991470606",
+    "code": "025045",
+    "lat": -0.0409783,
+    "lng": -51.15596679999999
+  },
+  {
+    "name": "ELETRICIDADE GERAL",
+    "city": "Santarem",
+    "state": "PA",
+    "phone": "",
+    "code": "026176",
+    "lat": -2.4262435,
+    "lng": -54.7382644
+  },
+  {
+    "name": "REI TEC",
+    "city": "SANTO ANDRE",
+    "state": "SP",
+    "phone": "",
+    "code": "007793",
+    "lat": -23.6302081,
+    "lng": -46.5469429
+  },
+  {
+    "name": "PRIME  CLEAN",
+    "city": "Santo Andre",
+    "state": "SP",
+    "phone": "(15) 991405700",
+    "code": "047451",
+    "lat": -23.7001031,
+    "lng": -46.5089297
+  },
+  {
+    "name": "CONCESSIONARIA SANTO ANDRE SP",
+    "city": "Santo Andre",
+    "state": "SP",
+    "phone": "(12) 991820407",
+    "code": "140430",
+    "lat": -23.630321,
+    "lng": -46.5469584
+  },
+  {
+    "name": "Chef Isabela Manoel Camerotti",
+    "city": "Santo Andre",
+    "state": "SP",
+    "phone": "",
+    "code": "156132",
+    "lat": -23.6661125,
+    "lng": -46.5259128
+  },
+  {
+    "name": "CHEF Roberto Goncalves Giorno",
+    "city": "Santos",
+    "state": "SP",
+    "phone": "",
+    "code": "105477",
+    "lat": -23.9631945,
+    "lng": -46.32814090000001
+  },
+  {
+    "name": "GH TEC INSTALACAO E MANUTENCAO",
+    "city": "Santos",
+    "state": "SP",
+    "phone": "",
+    "code": "127211",
+    "lat": -23.9761151,
+    "lng": -46.3060196
+  },
+  {
+    "name": "CHEF Agnelo da Silva Borges",
+    "city": "Santos",
+    "state": "SP",
+    "phone": "",
+    "code": "158324",
+    "lat": -23.9705998,
+    "lng": -46.308257
+  },
+  {
+    "name": "JR PAN",
+    "city": "Sao Bernardo do Campo",
+    "state": "SP",
+    "phone": "(11) 992723235",
+    "code": "039595",
+    "lat": -23.6984711,
+    "lng": -46.5855859
+  },
+  {
+    "name": "CHEF Vanuza Salkys",
+    "city": "Sao Bernardo do Campo",
+    "state": "SP",
+    "phone": "",
+    "code": "106903",
+    "lat": -23.7539998,
+    "lng": -46.5548604
+  },
+  {
+    "name": "CHEF Leandro Rocha",
+    "city": "Sao Goncalo do Amarante",
+    "state": "RN",
+    "phone": "",
+    "code": "144601",
+    "lat": -5.7399048,
+    "lng": -35.3054693
+  },
+  {
+    "name": "RANIERES VOLTZ",
+    "city": "Sao Jose da Coroa Grande",
+    "state": "PE",
+    "phone": "(81) 984037206",
+    "code": "094031",
+    "lat": -8.8968295,
+    "lng": -35.1526086
+  },
+  {
+    "name": "PREST SERVICE SP",
+    "city": "SAO JOSE DO RIO PRETO",
+    "state": "SP",
+    "phone": "",
+    "code": "000354",
+    "lat": -20.8127115,
+    "lng": -49.376521
+  },
+  {
+    "name": "ALPHA KITCHENS",
+    "city": "Sao Jose do Rio Preto",
+    "state": "SP",
+    "phone": "(17) 997823144",
+    "code": "159095",
+    "lat": -20.7527624,
+    "lng": -49.3264726
+  },
+  {
+    "name": "REI VALE",
+    "city": "Sao Jose dos Campos",
+    "state": "SP",
+    "phone": "(12) 998885640",
+    "code": "041994",
+    "lat": -23.2195133,
+    "lng": -45.8855155
+  },
+  {
+    "name": "CHEF Jose Ricardo da Silva Junior",
+    "city": "Sao Jose dos Campos",
+    "state": "SP",
+    "phone": "",
+    "code": "105461",
+    "lat": -23.2414999,
+    "lng": -45.8882151
+  },
+  {
+    "name": "FCG MANUTENCAO DE EQUIPAMENTOS INDUSTRIAIS",
+    "city": "Sao Luis",
+    "state": "MA",
+    "phone": "(98) 992140088",
+    "code": "110581",
+    "lat": -2.5160729,
+    "lng": -44.207608
+  },
+  {
+    "name": "SM SOLUCOES",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "(11) 963829779",
+    "code": "042467",
+    "lat": -23.4304645,
+    "lng": -46.77628790000001
+  },
+  {
+    "name": "JRM ASSISTENCIA TECNICA",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "(11) 941402204",
+    "code": "045246",
+    "lat": -23.5975125,
+    "lng": -46.5025472
+  },
+  {
+    "name": "PANTECNICO",
+    "city": "SAO PAULO",
+    "state": "SP",
+    "phone": "(11) 961175209",
+    "code": "026328",
+    "lat": -23.4451159,
+    "lng": -46.7375834
+  },
+  {
+    "name": "AGILE COMERCIO E SERVICOS DE REFRIGERACAO",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "023717",
+    "lat": -23.6134326,
+    "lng": -46.6307527
+  },
+  {
+    "name": "Douglas Moura da Silva",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "081899",
+    "lat": -23.5526669,
+    "lng": -46.45016709999999
+  },
+  {
+    "name": "CHEF Antonio Carlos Galvao Filho",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "105391",
+    "lat": -23.5581039,
+    "lng": -46.6229887
+  },
+  {
+    "name": "Chef Rafael Fraga de Andrade",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "105495",
+    "lat": -23.4841537,
+    "lng": -46.5941668
+  },
+  {
+    "name": "Chef Vanessa Gama Tagnin",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "105496",
+    "lat": -23.4571492,
+    "lng": -46.7486049
+  },
+  {
+    "name": "Chef Gabriela Rodrigues Velozo",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "105499",
+    "lat": -23.5039251,
+    "lng": -46.5955981
+  },
+  {
+    "name": "Sandra Aparecida Gomes",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "105502",
+    "lat": -23.5017818,
+    "lng": -46.5129686
+  },
+  {
+    "name": "Chef Jeferson Martins",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "106891",
+    "lat": -23.5986904,
+    "lng": -46.4965605
+  },
+  {
+    "name": "WJ COZINHAS INDUSTRIAIS",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "(11) 989529810",
+    "code": "115091",
+    "lat": -23.549643,
+    "lng": -46.7479431
+  },
+  {
+    "name": "WE TECH COZNHAS",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "126198",
+    "lat": -23.671997,
+    "lng": -46.7401709
+  },
+  {
+    "name": "William Ferreira Feitoza",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "131556",
+    "lat": -23.8575057,
+    "lng": -46.7077072
+  },
+  {
+    "name": "Chef Ricardo Cancian Butignoli",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "137517",
+    "lat": -23.542191,
+    "lng": -46.6241288
+  },
+  {
+    "name": "MR SOLUCOES",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "142884",
+    "lat": -23.4943466,
+    "lng": -46.4870023
+  },
+  {
+    "name": "Chef Renata Sara Sveidic",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "144145",
+    "lat": -23.5460963,
+    "lng": -46.6492669
+  },
+  {
+    "name": "Kaled Walid El Kadri",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "147503",
+    "lat": -23.6713613,
+    "lng": -46.656285
+  },
+  {
+    "name": "CHEF Thalles Cesar Machado Rosa",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "151720",
+    "lat": -23.5516176,
+    "lng": -46.641587
+  },
+  {
+    "name": "CHEF Lucas Gomes da Silva Nozue",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "151748",
+    "lat": -23.4908411,
+    "lng": -46.6187893
+  },
+  {
+    "name": "CHEF Hegle Galeano Benigni",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "152543",
+    "lat": -23.5346234,
+    "lng": -46.5951713
+  },
+  {
+    "name": "Leandro de Oliveira",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "154500",
+    "lat": -23.5677078,
+    "lng": -46.4026583
+  },
+  {
+    "name": "Chef Iuri Cardoso de Almeida Rocha",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "156134",
+    "lat": -23.5397848,
+    "lng": -46.5118999
+  },
+  {
+    "name": "Chef Augusto Ferreira Neto",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "156440",
+    "lat": -23.5847011,
+    "lng": -46.742152
+  },
+  {
+    "name": "Carlos Alberto Huber",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "(11) 913335976",
+    "code": "156646",
+    "lat": -23.6065072,
+    "lng": -46.5252694
+  },
+  {
+    "name": "Chef Angelo Braconi Ramalho",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "",
+    "code": "158329",
+    "lat": -23.5252408,
+    "lng": -46.51772099999999
+  },
+  {
+    "name": "NIVER MANUTENCAO E S",
+    "city": "Sao Pedro da Aldeia",
+    "state": "RJ",
+    "phone": "(21) 981001659",
+    "code": "030495",
+    "lat": -22.8140198,
+    "lng": -42.1114347
+  },
+  {
+    "name": "SERVITEC",
+    "city": "SAPUCAIA DO SUL",
+    "state": "RS",
+    "phone": "(51) 993042152",
+    "code": "018286",
+    "lat": -29.80166329999999,
+    "lng": -51.1344348
+  },
+  {
+    "name": "TECNOLABOR",
+    "city": "Senador Canedo",
+    "state": "GO",
+    "phone": "",
+    "code": "103513",
+    "lat": -16.7001722,
+    "lng": -49.1013643
+  },
+  {
+    "name": "MATHEUS WOTECOSTZ DA SILVA",
+    "city": "Serra",
+    "state": "ES",
+    "phone": "(27) 999064270",
+    "code": "145925",
+    "lat": -20.1438315,
+    "lng": -40.2640729
+  },
+  {
+    "name": "Lexs Manutencao e Servicos",
+    "city": "Serra",
+    "state": "ES",
+    "phone": "(27) 999327361",
+    "code": "147737",
+    "lat": -20.1278179,
+    "lng": -40.1902879
+  },
+  {
+    "name": "ZETEC",
+    "city": "Sertaozinho",
+    "state": "SP",
+    "phone": "(16) 998857183",
+    "code": "113831",
+    "lat": -21.1367342,
+    "lng": -47.9798471
+  },
+  {
+    "name": "TECHPAN COM E SERVICOS",
+    "city": "Sinop",
+    "state": "MT",
+    "phone": "(66) 999659627",
+    "code": "133558",
+    "lat": -11.859508,
+    "lng": -55.505477
+  },
+  {
+    "name": "COMERCIAL PRIME FOOD LTDA",
+    "city": "SOROCABA",
+    "state": "SP",
+    "phone": "(15) 991405700",
+    "code": "023900",
+    "lat": -23.474657,
+    "lng": -47.4408245
+  },
+  {
+    "name": "MCI SOROCABA LTDA",
+    "city": "Sorocaba",
+    "state": "SP",
+    "phone": "(15) 988194272",
+    "code": "158677",
+    "lat": -23.51873,
+    "lng": -47.4702828
+  },
+  {
+    "name": "Allan Rene Sells Correa",
+    "city": "Sumare",
+    "state": "SP",
+    "phone": "",
+    "code": "097014",
+    "lat": -22.8361585,
+    "lng": -47.2631124
+  },
+  {
+    "name": "Davi Johannes Alves da Silva",
+    "city": "Sumare",
+    "state": "SP",
+    "phone": "(19) 998686565",
+    "code": "156644",
+    "lat": -22.8159058,
+    "lng": -47.2941295
+  },
+  {
+    "name": "OLIVEIRA REFRIGERACAO SP",
+    "city": "Taboao da Serra",
+    "state": "SP",
+    "phone": "(11) 989710630",
+    "code": "110478",
+    "lat": -23.6214132,
+    "lng": -46.7927448
+  },
+  {
+    "name": "CHEF Gessica Rodrigues Lopes de Castro",
+    "city": "Telemaco Borba",
+    "state": "PR",
+    "phone": "",
+    "code": "155257",
+    "lat": -24.3394682,
+    "lng": -50.6254239
+  },
+  {
+    "name": "G S SERVICOS",
+    "city": "TERESINA",
+    "state": "PI",
+    "phone": "",
+    "code": "042178",
+    "lat": -5.1373858,
+    "lng": -42.8017472
+  },
+  {
+    "name": "CHEF Felipe Rodrigues Albiero",
+    "city": "Teresina",
+    "state": "PI",
+    "phone": "",
+    "code": "151716",
+    "lat": -5.0810984,
+    "lng": -42.774291
+  },
+  {
+    "name": "CHEF Fernando de Assis Correa",
+    "city": "Tubarao",
+    "state": "SC",
+    "phone": "",
+    "code": "105435",
+    "lat": -28.4728663,
+    "lng": -48.9929206
+  },
+  {
+    "name": "ELETRO MEDEIROS",
+    "city": "UBERABA",
+    "state": "MG",
+    "phone": "(34) 988637425",
+    "code": "006471",
+    "lat": -19.748089,
+    "lng": -47.9256673
+  },
+  {
+    "name": "OFICINA DO COMERCIO ANTIGA AM REFRIGERACAO",
+    "city": "Uberlandia",
+    "state": "MG",
+    "phone": "",
+    "code": "107530",
+    "lat": -18.9231343,
+    "lng": -48.2317038
+  },
+  {
+    "name": "MARCO ZERO SERVICOS",
+    "city": "Varzea Grande",
+    "state": "MT",
+    "phone": "(65) 998208241",
+    "code": "108103",
+    "lat": -15.6537799,
+    "lng": -56.1537137
+  },
+  {
+    "name": "Euclides Jose de Matos Junior",
+    "city": "Varzea Grande",
+    "state": "MT",
+    "phone": "",
+    "code": "112748",
+    "lat": -15.6505125,
+    "lng": -56.1354693
+  },
+  {
+    "name": "65878764 ROBSON KRIGER GONCALVES",
+    "city": "Varzea Grande",
+    "state": "MT",
+    "phone": "(65) 984416046",
+    "code": "159764",
+    "lat": -15.6619145,
+    "lng": -56.09023620000001
+  },
+  {
+    "name": "GT MANUTENCAO DE COZINHAS",
+    "city": "Venancio Aires",
+    "state": "RS",
+    "phone": "(51) 998626229",
+    "code": "147299",
+    "lat": -29.5823096,
+    "lng": -52.1889132
+  },
+  {
+    "name": "Thiago Reiner Goncalves",
+    "city": "Vespasiano",
+    "state": "MG",
+    "phone": "",
+    "code": "081901",
+    "lat": -19.6835268,
+    "lng": -43.9113632
+  },
+  {
+    "name": "Wesley Valadares de Oliveira Martins",
+    "city": "Vespasiano",
+    "state": "MG",
+    "phone": "",
+    "code": "112956",
+    "lat": -19.6903459,
+    "lng": -43.9235782
+  },
+  {
+    "name": "ELETRO SOLUCOES",
+    "city": "Vicosa",
+    "state": "MG",
+    "phone": "",
+    "code": "109938",
+    "lat": -20.7492177,
+    "lng": -42.8815602
+  },
+  {
+    "name": "FREON TEC",
+    "city": "Vila Velha",
+    "state": "ES",
+    "phone": "(27) 33396752",
+    "code": "005788",
+    "lat": -20.3628138,
+    "lng": -40.318417
+  },
+  {
+    "name": "CHEF Julio Cesar Canabarro Storck",
+    "city": "Vila Velha",
+    "state": "ES",
+    "phone": "",
+    "code": "108146",
+    "lat": -20.3358996,
+    "lng": -40.3036765
+  },
+  {
+    "name": "JC Manutencao",
+    "city": "Vila Velha",
+    "state": "ES",
+    "phone": "(27) 988640275",
+    "code": "154869",
+    "lat": -20.3523044,
+    "lng": -40.2997374
+  },
+  {
+    "name": "VTEKI",
+    "city": "Vitoria da Conquista",
+    "state": "BA",
+    "phone": "(77) 991707451",
+    "code": "044159",
+    "lat": -14.8550478,
+    "lng": -40.8226122
+  },
+  {
+    "name": "CHEF Wallace da Rocha Calderon",
+    "city": "Votorantim",
+    "state": "SP",
+    "phone": "",
+    "code": "105440",
+    "lat": -23.5594739,
+    "lng": -47.4786888
+  },
+  {
+    "name": "CHEF Ronald Raphael",
+    "city": "Votuporanga",
+    "state": "SP",
+    "phone": "",
+    "code": "118290",
+    "lat": -20.4097374,
+    "lng": -49.9805608
+  }
+]

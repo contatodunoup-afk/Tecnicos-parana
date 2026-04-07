@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Mapa Prática Service+ Paraná PR</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <style>
+    body { margin: 0; font-family: Arial, Helvetica, sans-serif; }
+    header {
+      background: #0b4c8c;
+      color: #fff;
+      padding: 10px 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    header img { 
+      height: 60px;
+      width: auto;
+      max-width: 100%;
+    }
+    #map { height: calc(100vh - 74px); }
+    
+    /* Ícone em formato de círculo */
+    .marcador-pin {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #ffffff;
+      border: 3px solid white;
+      border-radius: 50%;
+      box-shadow: 0 4px 16px rgba(11,76,140,0.35);
+      overflow: hidden;
+    }
+
+    .marcador-pin img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      display: block;
+    }
+
+    /* Popup com dados */
+    .popup-dados-tecnico {
+      background: white;
+      border-radius: 8px;
+      padding: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+      font-size: 12px;
+      color: #333;
+    }
+
+    .popup-dados-tecnico div {
+      margin: 6px 0;
+      line-height: 1.4;
+    }
+
+    .popup-dados-tecnico strong {
+      color: #0b4c8c;
+      font-weight: bold;
+    }
+
+    .popup-dados-tecnico .titulo {
+      font-size: 13px;
+      font-weight: bold;
+      color: #0b4c8c;
+      border-bottom: 2px solid #0b4c8c;
+      padding-bottom: 6px;
+      margin-bottom: 8px;
+    }
+
+    .leaflet-popup-content {
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+
+    .leaflet-popup-tip {
+      background: white;
+    }
+
+    .label {
+      background: rgba(255,255,255,0.95);
+      border-radius: 6px;
+      padding: 5px 10px;
+      color: #0b4c8c;
+      font-weight: bold;
+      font-size: 15px;
+      border: 1px solid #0b4c8c;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.35);
+      white-space: nowrap;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="./logo.jpg" alt="Logo Prática Service+">
+    <h1>Mapa Prática Service+ Paraná PR</h1>
+  </header>
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const map = L.map('map').setView([-14.2350, -51.9253], 4);
+    
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '© OpenStreetMap'
+    }).addTo(map);
+
+    const markers = [];
+
+    // Mapeamento de nomes dos técnicos para nomes das imagens
+    const imagemMap = {
+      "Leonardo Guimaraes Oliveira": "Leonardo Guimarães.jpeg",
+      "Douglas Moura da Silva": "Douglas Moura.jpeg",
+      "Uiliam de Cassia Lemos": "uillian Lemos.jpeg",
+      "William Cardoso Ferreira": "Willian Cardoso.jpeg",
+      "Marcio da Silva Ribeiro": "Marcio Ribeiro.jpeg",
+      "Allan Rene Sells Corrêa": "Allan Correa.jpeg",
+      "Gustavo Pascoal Mereu": "logo.jpg",
+      "Euclides Jose de Matos Junior": "Euclides Matos.jpeg",
+      "Wesley Valadares de Oliveira Martins": "Wesley Martins.jpeg",
+      "Neymar Belem de Queiroz": "Neymar.jpeg",
+      "NILTON LUIS AMARAL": "Nilton Amaral.jpeg",
+      "William Ferreira Feitoza": "Willian Feitosa.jpeg",
+      "Rafael Wagner de Lima": "Rafael Wagner.jpeg",
+      "Jose Inacio da Silva Junior": "JOsé Inacio.jpeg",
+      "Alexandre Francisco da Silva": "Alexandre Francisco.jpeg",
+      "Ronald Santa Rosa Costa": "Ronald Costa.jpeg",
+      "Kaled Walid El Kadri": "Kaled Walid.jpeg",
+      "Jean Conceicao Santos": "Jean Conceição.jpeg",
+      "Bruno Rodrigues Oliveira": "Bruno Rodrigues.jpeg",
+      "Giovani Oliveira Antunes": "Giovane Oliveira.jpeg",
+      "Leandro de Oliveira": "Leandro de Oliveira.jpeg",
+      "Daniel Candido da Silva": "Daniel Candido.jpeg",
+      "Aparecido Alessandro da Silva": "Aparecido Alessandro.jpeg",
+      "Sanrley de Souza Oliveira": "Sanrley de Souza.jpeg",
+      "Davi Johannes Alves da Silva": "Davi Johannes.jpeg",
+      "Carlos Alberto Huber": "Carlos Alberto.jpeg"
+    };
+
+    // Mapeamento de cidades para siglas de estados
+    const estadoMap = {
+      "Marica": "RJ",
+      "Sao Paulo": "SP",
+      "Santa Rita do Sapucai": "MG",
+      "Curitiba": "PR",
+      "Itapevi": "SP",
+      "Sumare": "SP",
+      "Blumenau": "SC",
+      "Pouso Alegre": "MG",
+      "Varzea Grande": "MT",
+      "Vespasiano": "MG",
+      "Manaus": "AM",
+      "Canoas": "RS",
+      "Ribeirao Preto": "SP",
+      "Gloria do Goita": "PE",
+      "Recife": "PE",
+      "Belem": "PA",
+      "Campo Grande": "MS",
+      "Rio de Janeiro": "RJ",
+      "Ferraz de Vasconcelos": "SP",
+      "Belo Horizonte": "MG",
+      "Rolandia": "PR"
+    };
+
+    // Função para criar ícone em formato de círculo
+    function criarIconeRedondo(imagePath, size) {
+      const baseSize = size || 44;
+      const height = baseSize;
+      const html = `<div class="marcador-pin" style="width: ${baseSize}px; height: ${height}px;"><img src="${imagePath}" alt="Técnico"></div>`;
+      
+      return L.divIcon({
+        html: html,
+        iconSize: [baseSize, height],
+        iconAnchor: [baseSize / 2, height * 0.6],
+        popupAnchor: [0, -height * 0.6],
+        className: 'custom-marker'
+      });
+    }
+
+    // Função para atualizar o tamanho dos ícones baseado no zoom
+    function updateIconSize() {
+      const zoom = map.getZoom();
+      let size;
+      
+      // Quanto maior zoom, menor o pino para não sobrepor
+      if (zoom < 6) {
+        size = 56;
+      } else if (zoom < 8) {
+        size = 50;
+      } else if (zoom < 10) {
+        size = 44;
+      } else if (zoom < 12) {
+        size = 38;
+      } else if (zoom < 14) {
+        size = 32;
+      } else if (zoom < 16) {
+        size = 28;
+      } else if (zoom < 18) {
+        size = 24;
+      } else {
+        size = 20;
+      }
+      
+      markers.forEach((markerData) => {
+        const novoIcone = criarIconeRedondo(markerData.imagePath, size);
+        markerData.marker.setIcon(novoIcone);
+      });
+    }
+
+    map.on('zoomend', updateIconSize);
+
+    // Dados extraídos do arquivo Excel - Fundepar Técnicos
+    const empresas = [{"name":"DOMINIO REFRIGERACAO","city":"Almirante Tamandare","state":"PR","phone":"(41) 33541027","code":"024081","lat":-25.3585199,"lng":-49.2918288,"classificacao":"Padrao"},{"name":"ELC MANUTENCAO","city":"Almirante Tamandare","state":"PR","phone":"(41) 995484107","code":"144049","lat":-25.348995,"lng":-49.26593099999999,"classificacao":"Service Plus+"},{"name":"JAT ASSISTENCIA TEC.","city":"CASCAVEL","state":"PR","phone":"(45) 32260077","code":"060517","lat":-24.9524191,"lng":-53.4650237,"classificacao":"Service Plus+"},{"name":"ASSISTENCIA TECNICA CORRETIVA","city":"Curitiba","state":"PR","phone":"(41) 30299484","code":"078171","lat":-25.4400945,"lng":-49.2328947,"classificacao":"Service Plus+"},{"name":"WMA ASSISTENCIA TECNICA LTDA","city":"Curitiba","state":"PR","phone":"(41) 987295102","code":"097062","lat":-25.4611902,"lng":-49.2243478,"classificacao":"Service Plus+"},{"name":"LUBRAS SOLUCOES E SERVICOS LTDA","city":"Curitiba","state":"PR","phone":"(41) 995283553","code":"157336","lat":-25.4895317,"lng":-49.2266521,"classificacao":"Service Plus+"},{"name":"SOS FOGOES","city":"Foz do Iguacu","state":"PR","phone":"(45) 998304403","code":"158472","lat":-25.4935204,"lng":-54.531813,"classificacao":"Service Plus+"},{"name":"APPELT ELETRICIDADE","city":"Francisco Beltrao","state":"PR","phone":"(46) 999150712","code":"026224","lat":-26.0421363,"lng":-53.0591134,"classificacao":"Padrao"},{"name":"SERVICE VS MANUTENCAO","city":"LONDRINA","state":"PR","phone":"(43) 33048296","code":"028690","lat":-23.3096379,"lng":-51.1810126,"classificacao":"Padrao"},{"name":"Eletrotecnica Teixeira","city":"Maringa","state":"PR","phone":"(44) 32225417","code":"021967","lat":-23.4498779,"lng":-51.9556522,"classificacao":"Padrao"},{"name":"GRAAL REFRIGERACAO","city":"Paranavai","state":"PR","phone":"(44) 39000656","code":"051551","lat":-23.0808412,"lng":-52.46439489999999,"classificacao":"Service Plus+"},{"name":"VALDIR HAAS","city":"Ponta Grossa","state":"PR","phone":"(42) 99615122","code":"004744","lat":-25.0993784,"lng":-50.1582927,"classificacao":"Padrao"},{"name":"Giovani Oliveira Antunes","city":"Rolandia","state":"PR","phone":"(35) 998429344","code":"154498","lat":-23.3272538,"lng":-51.3837596,"classificacao":"Técnico Próprio"}];
+
+    empresas.forEach((e) => {
+      let nomeImagem;
+      if (e.classificacao === "Service Plus+") {
+        nomeImagem = "NovaIdentidade_Servicos_v03_20250910-02.jpg";
+      } else if (e.name === "Giovani Oliveira Antunes") {
+        nomeImagem = "Giovane Oliveira.jpeg";
+      } else {
+        nomeImagem = "logo.jpg";
+      }
+      const imagePath = "./" + nomeImagem;
+      
+      const initialIcon = criarIconeRedondo(imagePath, 46);
+      const m = L.marker([e.lat, e.lng], { icon: initialIcon }).addTo(map);
+      markers.push({ marker: m, imagePath: imagePath });
+
+      // Criar popup com apenas dados textuais
+      const popupContent = `
+        <div class="popup-dados-tecnico">
+          <div class="titulo">${e.city} - ${e.state}</div>
+          <div><strong>Nome:</strong> ${e.name}</div>
+          <div><strong>Código:</strong> ${e.code}</div>
+          <div><strong>Telefone:</strong> ${e.phone}</div>
+        </div>
+      `;
+
+      m.bindPopup(popupContent, {
+        closeButton: true,
+        className: 'custom-popup',
+        maxWidth: 250
+      });
+
+      m.on('click', function() {
+        m.openPopup();
+      });
+    });
+  </script>
+</body>
+</html>

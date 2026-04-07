@@ -1,0 +1,132 @@
+[
+  {
+    "name": "DOMINIO REFRIGERACAO",
+    "city": "Almirante Tamandare",
+    "state": "PR",
+    "phone": "(41) 33541027",
+    "code": "024081",
+    "lat": -25.3585199,
+    "lng": -49.2918288,
+    "classificacao": "Padrao"
+  },
+  {
+    "name": "ELC MANUTENCAO",
+    "city": "Almirante Tamandare",
+    "state": "PR",
+    "phone": "(41) 995484107",
+    "code": "144049",
+    "lat": -25.348995,
+    "lng": -49.26593099999999,
+    "classificacao": "Service Plus+"
+  },
+  {
+    "name": "JAT ASSISTENCIA TEC.",
+    "city": "CASCAVEL",
+    "state": "PR",
+    "phone": "(45) 32260077",
+    "code": "060517",
+    "lat": -24.9524191,
+    "lng": -53.4650237,
+    "classificacao": "Service Plus+"
+  },
+  {
+    "name": "ASSISTENCIA TECNICA CORRETIVA",
+    "city": "Curitiba",
+    "state": "PR",
+    "phone": "(41) 30299484",
+    "code": "078171",
+    "lat": -25.4400945,
+    "lng": -49.2328947,
+    "classificacao": "Service Plus+"
+  },
+  {
+    "name": "WMA ASSISTENCIA TECNICA LTDA",
+    "city": "Curitiba",
+    "state": "PR",
+    "phone": "(41) 987295102",
+    "code": "097062",
+    "lat": -25.4611902,
+    "lng": -49.2243478,
+    "classificacao": "Service Plus+"
+  },
+  {
+    "name": "LUBRAS SOLUCOES E SERVICOS LTDA",
+    "city": "Curitiba",
+    "state": "PR",
+    "phone": "(41) 995283553",
+    "code": "157336",
+    "lat": -25.4895317,
+    "lng": -49.2266521,
+    "classificacao": "Service Plus+"
+  },
+  {
+    "name": "SOS FOGOES",
+    "city": "Foz do Iguacu",
+    "state": "PR",
+    "phone": "(45) 998304403",
+    "code": "158472",
+    "lat": -25.4935204,
+    "lng": -54.531813,
+    "classificacao": "Service Plus+"
+  },
+  {
+    "name": "APPELT ELETRICIDADE",
+    "city": "Francisco Beltrao",
+    "state": "PR",
+    "phone": "(46) 999150712",
+    "code": "026224",
+    "lat": -26.0421363,
+    "lng": -53.0591134,
+    "classificacao": "Padrao"
+  },
+  {
+    "name": "SERVICE VS MANUTENCAO",
+    "city": "LONDRINA",
+    "state": "PR",
+    "phone": "(43) 33048296",
+    "code": "028690",
+    "lat": -23.3096379,
+    "lng": -51.1810126,
+    "classificacao": "Padrao"
+  },
+  {
+    "name": "Eletrotecnica Teixeira",
+    "city": "Maringa",
+    "state": "PR",
+    "phone": "(44) 32225417",
+    "code": "021967",
+    "lat": -23.4498779,
+    "lng": -51.9556522,
+    "classificacao": "Padrao"
+  },
+  {
+    "name": "GRAAL REFRIGERACAO",
+    "city": "Paranavai",
+    "state": "PR",
+    "phone": "(44) 39000656",
+    "code": "051551",
+    "lat": -23.0808412,
+    "lng": -52.46439489999999,
+    "classificacao": "Service Plus+"
+  },
+  {
+    "name": "VALDIR HAAS",
+    "city": "Ponta Grossa",
+    "state": "PR",
+    "phone": "(42) 99615122",
+    "code": "004744",
+    "lat": -25.0993784,
+    "lng": -50.1582927,
+    "classificacao": "Padrao"
+  },
+  {
+    "name": "Giovani Oliveira Antunes",
+    "city": "Rolandia",
+    "state": "PR",
+    "phone": "(35) 998429344",
+    "code": "154498",
+    "lat": -23.3272538,
+    "lng": -51.3837596,
+    "classificacao": "Técnico Próprio"
+  }
+]
